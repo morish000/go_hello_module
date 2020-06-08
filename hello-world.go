@@ -1,9 +1,9 @@
-package hello
+package go_hello_module
 
 import (
 	"fmt"
-	"go-hello-module/hello"
-	"go-hello-module/world"
+	"github.com/morish000/go_hello_module/hello"
+	"github.com/morish000/go_hello_module/world"
 )
 
 func HelloWorld() string {
