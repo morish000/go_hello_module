@@ -7,5 +7,5 @@ import (
 )
 
 func HelloWorld() string {
-	return fmt.Sprintf("%v %v %v", hello.Hello(), world.World(), "v2.1")
+	return fmt.Sprintf("%v %v %v", hello.Hello(), world.World(), "v2.1.1")
 }
